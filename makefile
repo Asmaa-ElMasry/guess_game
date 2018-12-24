@@ -1,5 +1,7 @@
 # Minimal makefile for guess game
 
+all:readme
+
 readme: 
 	touch README.md
 	echo "# Guessing Game \n" > README.md
